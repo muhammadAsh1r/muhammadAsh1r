@@ -68,10 +68,10 @@
   <a href="https://github.com/muhammadAsh1r" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="YOUR_LINKEDIN_LINK" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammadash1r/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="YOUR_PORTFOLIO_LINK" target="_blank">
+  <a href="https://portfolio-ap-kohl.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
