@@ -3,10 +3,12 @@
 </p>
 
 <h1 align="center">Muhammad Ashir Khan</h1>
-<h3 align="center">Full-Stack Developer | Computer Science Student | SaaS Builder</h3>
+<p align="center">
+  Full-Stack Developer • Computer Science Student • Building modern SaaS products and web applications
+</p>
 
 <p align="center">
-  I build scalable web applications, SaaS products, REST APIs, and AI-powered platforms with a focus on performance, clean architecture, and strong user experience.
+  I build full-stack applications with a focus on clean architecture, polished user experience, and production-ready systems. My work spans modern frontend development, backend APIs, databases, authentication, and AI-powered product features.
 </p>
 
 <p align="center">
@@ -18,58 +20,52 @@
 
 ---
 
-## Tech Stack
+## Stack
 
-### Languages
+**Languages**
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,python,cpp" />
 </p>
 
-### Frontend
+**Frontend**
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,materialui" />
 </p>
 
-### Backend
+**Backend**
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,django" />
 </p>
 
-### Databases
+**Databases**
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
 </p>
 
-### Tools & Platforms
+**Tools**
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vercel,postman" />
 </p>
 
-### Other
+**Also worked with**
 
 <p>
-  Supabase • Django REST Framework • OpenAI API • Google Gemini API • Lemon Squeezy • PostHog
+  Supabase, Django REST Framework, OpenAI API, Google Gemini API, Lemon Squeezy, PostHog
 </p>
 
 ---
 
-## Connect With Me
+## Links
 
 <p>
-  <a href="https://github.com/muhammadAsh1r" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/muhammadash1r/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://portfolio-ap-kohl.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
+  <a href="https://github.com/muhammadAsh1r">GitHub</a> •
+  <a href="https://www.linkedin.com/in/muhammadash1r/">LinkedIn</a> •
+  <a href="https://portfolio-ap-kohl.vercel.app/">Portfolio</a>
 </p>
 
 ---
