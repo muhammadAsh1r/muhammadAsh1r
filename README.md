@@ -20,43 +20,96 @@
 
 ---
 
-## Stack
+## Skills
 
-**Languages**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp" />
-</p>
-
-**Frontend**
+### Core
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,materialui" />
+  <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
 </p>
 
-**Backend**
+### Styling & UI
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django" />
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></a>
+  <a href="https://postcss.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postcss" alt="PostCSS" /></a>
 </p>
 
-**Databases**
+* [shadcn/ui](https://ui.shadcn.com/)
+* [Radix UI](https://www.radix-ui.com/)
+* [Framer Motion](https://www.framer.com/motion/)
+* [Lucide React](https://lucide.dev/)
+* [Sonner](https://sonner.emilkowal.ski/)
+* [next-themes](https://github.com/pacocoursey/next-themes)
+* [class-variance-authority](https://cva.style/docs)
+* [clsx](https://github.com/lukeed/clsx)
+* [tailwind-merge](https://github.com/dcastil/tailwind-merge)
+* [tw-animate-css](https://www.npmjs.com/package/tw-animate-css)
+
+### Backend & Data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+  <a href="https://supabase.com/" target="_blank"><img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
 </p>
 
-**Tools**
+### AI
+
+* [Google Gemini](https://ai.google.dev/)
+* [OpenAI](https://openai.com/)
+
+### Payments & Email
+
+* [Lemon Squeezy](https://www.lemonsqueezy.com/)
+* [Resend](https://resend.com/)
+
+### Analytics
+
+* [PostHog](https://posthog.com/)
+
+### Editor & Forms
+
+* [TipTap](https://tiptap.dev/)
+* [react-easy-crop](https://github.com/ValentinH/react-easy-crop)
+* [browser-image-compression](https://www.npmjs.com/package/browser-image-compression)
+
+### PDF / Document
+
+* [Puppeteer](https://pptr.dev/)
+* [@sparticuz/chromium-min](https://github.com/Sparticuz/chromium)
+* [Mammoth](https://github.com/mwilliamson/mammoth.js)
+
+### Data Fetching & Utilities
+
+* [SWR](https://swr.vercel.app/)
+* [date-fns](https://date-fns.org/)
+* [sharp](https://sharp.pixelplumbing.com/)
+
+### Tooling
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,postman" />
+  <a href="https://eslint.org/" target="_blank"><img src="https://skillicons.dev/icons?i=eslint" alt="ESLint" /></a>
 </p>
 
-**Also worked with**
+* [tsx](https://tsx.is/)
+
+### Hosting & Fonts
 
 <p>
-  Supabase, Django REST Framework, OpenAI API, Google Gemini API, Lemon Squeezy, PostHog
+  <a href="https://vercel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" /></a>
 </p>
+
+* [Inter](https://rsms.me/inter/)
+* [Source Serif 4](https://fonts.google.com/specimen/Source+Serif+4)
+* [Geist Mono](https://vercel.com/font)
+
+### External APIs
+
+* [DiceBear](https://www.dicebear.com/)
+* [Unsplash](https://unsplash.com/developers)
 
 ---
 
