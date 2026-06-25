@@ -18,51 +18,47 @@
 
 ---
 
-## 🚀 About Me
-
-- 🎓 **BS Computer Science student** at **Namal University**
-- 💻 **Full-Stack Developer** building production-ready web apps and SaaS products
-- 🤖 Interested in **AI-powered applications**, **software architecture**, and **scalable backend systems**
-- ⚡ Experienced in authentication, payment integration, cloud deployment, database design, SEO, and product-focused development
-- 🛠 I enjoy building products that are practical, polished, and ready for real users
-
----
-
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,python,cpp" />
 </p>
 
 ### Frontend
+
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,materialui" />
 </p>
 
 ### Backend
+
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,django" />
 </p>
 
 ### Databases
+
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
 </p>
 
 ### Tools & Platforms
+
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vercel,postman" />
 </p>
 
 ### Other
+
 <p>
   Supabase • Django REST Framework • OpenAI API • Google Gemini API • Lemon Squeezy • PostHog
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p>
   <a href="https://github.com/muhammadAsh1r" target="_blank">
@@ -78,7 +74,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=muhammadAsh1r&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180" />
