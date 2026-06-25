@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  I build full-stack applications with a focus on clean architecture, polished user experience, and production-ready systems. My work spans modern frontend development, backend APIs, databases, authentication, and AI-powered product features.
+  I build full-stack applications with a focus on clean architecture, polished user experience, and production-ready systems.
 </p>
 
 <p align="center">
@@ -22,94 +22,51 @@
 
 ## Skills
 
-### Core
-
-<p>
+<p align="left">
   <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></a>
   <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
   <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
-</p>
-
-### Styling & UI
-
-<p>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></a>
   <a href="https://postcss.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postcss" alt="PostCSS" /></a>
-</p>
-
-* [shadcn/ui](https://ui.shadcn.com/)
-* [Radix UI](https://www.radix-ui.com/)
-* [Framer Motion](https://www.framer.com/motion/)
-* [Lucide React](https://lucide.dev/)
-* [Sonner](https://sonner.emilkowal.ski/)
-* [next-themes](https://github.com/pacocoursey/next-themes)
-* [class-variance-authority](https://cva.style/docs)
-* [clsx](https://github.com/lukeed/clsx)
-* [tailwind-merge](https://github.com/dcastil/tailwind-merge)
-* [tw-animate-css](https://www.npmjs.com/package/tw-animate-css)
-
-### Backend & Data
-
-<p>
   <a href="https://supabase.com/" target="_blank"><img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" /></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
-</p>
-
-### AI
-
-* [Google Gemini](https://ai.google.dev/)
-* [OpenAI](https://openai.com/)
-
-### Payments & Email
-
-* [Lemon Squeezy](https://www.lemonsqueezy.com/)
-* [Resend](https://resend.com/)
-
-### Analytics
-
-* [PostHog](https://posthog.com/)
-
-### Editor & Forms
-
-* [TipTap](https://tiptap.dev/)
-* [react-easy-crop](https://github.com/ValentinH/react-easy-crop)
-* [browser-image-compression](https://www.npmjs.com/package/browser-image-compression)
-
-### PDF / Document
-
-* [Puppeteer](https://pptr.dev/)
-* [@sparticuz/chromium-min](https://github.com/Sparticuz/chromium)
-* [Mammoth](https://github.com/mwilliamson/mammoth.js)
-
-### Data Fetching & Utilities
-
-* [SWR](https://swr.vercel.app/)
-* [date-fns](https://date-fns.org/)
-* [sharp](https://sharp.pixelplumbing.com/)
-
-### Tooling
-
-<p>
-  <a href="https://eslint.org/" target="_blank"><img src="https://skillicons.dev/icons?i=eslint" alt="ESLint" /></a>
-</p>
-
-* [tsx](https://tsx.is/)
-
-### Hosting & Fonts
-
-<p>
   <a href="https://vercel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" /></a>
+  <a href="https://eslint.org/" target="_blank"><img src="https://skillicons.dev/icons?i=eslint" alt="ESLint" /></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
 </p>
 
-* [Inter](https://rsms.me/inter/)
-* [Source Serif 4](https://fonts.google.com/specimen/Source+Serif+4)
-* [Geist Mono](https://vercel.com/font)
+<p align="left">
+  <a href="https://ui.shadcn.com/" target="_blank"><img src="https://img.shields.io/badge/shadcn/ui-111111?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" /></a>
+  <a href="https://www.radix-ui.com/" target="_blank"><img src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white" alt="Radix UI" /></a>
+  <a href="https://www.framer.com/motion/" target="_blank"><img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" /></a>
+  <a href="https://lucide.dev/" target="_blank"><img src="https://img.shields.io/badge/Lucide-000000?style=for-the-badge&logo=lucide&logoColor=white" alt="Lucide" /></a>
+  <a href="https://sonner.emilkowal.ski/" target="_blank"><img src="https://img.shields.io/badge/Sonner-111111?style=for-the-badge&logoColor=white" alt="Sonner" /></a>
+  <a href="https://github.com/pacocoursey/next-themes" target="_blank"><img src="https://img.shields.io/badge/next--themes-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="next-themes" /></a>
+  <a href="https://cva.style/docs" target="_blank"><img src="https://img.shields.io/badge/CVA-1A1A1A?style=for-the-badge&logoColor=white" alt="class-variance-authority" /></a>
+  <a href="https://openai.com/" target="_blank"><img src="https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" /></a>
+  <a href="https://ai.google.dev/" target="_blank"><img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini" /></a>
+  <a href="https://www.lemonsqueezy.com/" target="_blank"><img src="https://img.shields.io/badge/Lemon_Squeezy-FEDE00?style=for-the-badge&logoColor=000000" alt="Lemon Squeezy" /></a>
+  <a href="https://resend.com/" target="_blank"><img src="https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white" alt="Resend" /></a>
+  <a href="https://posthog.com/" target="_blank"><img src="https://img.shields.io/badge/PostHog-000000?style=for-the-badge&logo=posthog&logoColor=white" alt="PostHog" /></a>
+</p>
 
-### External APIs
-
-* [DiceBear](https://www.dicebear.com/)
-* [Unsplash](https://unsplash.com/developers)
+<p align="left">
+  <a href="https://tiptap.dev/" target="_blank"><img src="https://img.shields.io/badge/TipTap-111111?style=for-the-badge&logoColor=white" alt="TipTap" /></a>
+  <a href="https://github.com/ValentinH/react-easy-crop" target="_blank"><img src="https://img.shields.io/badge/react--easy--crop-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-easy-crop" /></a>
+  <a href="https://www.npmjs.com/package/browser-image-compression" target="_blank"><img src="https://img.shields.io/badge/browser--image--compression-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="browser-image-compression" /></a>
+  <a href="https://pptr.dev/" target="_blank"><img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" alt="Puppeteer" /></a>
+  <a href="https://github.com/Sparticuz/chromium" target="_blank"><img src="https://img.shields.io/badge/Chromium-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="@sparticuz/chromium-min" /></a>
+  <a href="https://github.com/mwilliamson/mammoth.js" target="_blank"><img src="https://img.shields.io/badge/Mammoth-6D4C41?style=for-the-badge&logoColor=white" alt="Mammoth" /></a>
+  <a href="https://swr.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/SWR-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="SWR" /></a>
+  <a href="https://date-fns.org/" target="_blank"><img src="https://img.shields.io/badge/date--fns-770C56?style=for-the-badge&logoColor=white" alt="date-fns" /></a>
+  <a href="https://sharp.pixelplumbing.com/" target="_blank"><img src="https://img.shields.io/badge/sharp-99CC00?style=for-the-badge&logoColor=white" alt="sharp" /></a>
+  <a href="https://tsx.is/" target="_blank"><img src="https://img.shields.io/badge/tsx-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="tsx" /></a>
+  <a href="https://www.dicebear.com/" target="_blank"><img src="https://img.shields.io/badge/DiceBear-FFB300?style=for-the-badge&logoColor=000000" alt="DiceBear" /></a>
+  <a href="https://unsplash.com/developers" target="_blank"><img src="https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=unsplash&logoColor=white" alt="Unsplash" /></a>
+</p>
 
 ---
 
